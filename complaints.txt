@@ -1,0 +1,10 @@
+1 "This is a complaint" admin 2 active
+2 "Unresolved grading issue for assignment" it 5 pending
+3 "Lack of communication from the biology dept" admin 8 active
+4 "Inadequate teaching materials" it 11 resolved
+5 "Behavioral concerns with Teacher Smith" admin 3 active
+6 "Repeated absence of Teacher Johnson" admin 7 resolved
+7 "Concerns regarding classroom facilities" accounts 9 active
+8 "Unprofessional conduct by Teacher Williams" admin 6 pending
+9 "Late submission of grades for the semester" it 14 resolved
+10 "Complaint against Teacher Davis" admin 12 active
